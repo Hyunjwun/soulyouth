@@ -28,7 +28,7 @@ body {
   position: relative;
   width: 280px;
   height: 180px;
-  background-color: #d9534f;
+  background-color: #ff9bbe;
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
@@ -48,14 +48,14 @@ body {
   border-left: 140px solid transparent;
   border-right: 140px solid transparent;
   border-bottom: 82px solid transparent;
-  border-top: 98px solid #d9534f;
+  border-top: 98px solid #dd5c89;
   transform-origin: top;
 }
 
 .pocket {
-  border-left: 140px solid #f5a3a2;
-  border-right: 140px solid #f5a3a2;
-  border-bottom: 90px solid #ff6f61;
+  border-left: 140px solid #f287ac;
+  border-right: 140px solid #f287ac;
+  border-bottom: 90px solid #f16f9d;
   border-top: 90px solid transparent;
   border-bottom-left-radius: 6px;
   border-bottom-right-radius: 6px;
@@ -197,9 +197,9 @@ body {
 .reset button {
   margin: 5px;
   padding: 10px 14px;
-  border: 2px solid #d9534f;
+  border: 2px solid #f06b9a;
   background: transparent;
-  color: #d9534f;
+  color: #f06b9a;
   font-weight: bold;
   cursor: pointer;
   border-radius: 4px;
